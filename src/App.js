@@ -9,7 +9,6 @@ import Home from "./Home";
 import Loginform from "./Loginform";
 import Createaccount from "./Createaccount";
 import Dashboard from "./Dashboard";
-import Images from "./Images";
 import Pdfs from "./Pdfs";
 import Documents from "./Documents";
 import Ppt from "./Ppt";
@@ -36,7 +35,7 @@ function App() {
           <Route path="/Loginform" component={Loginform} />
           <Route path="/Createaccount" component={Createaccount} />
           <Route path="/Dashboard" component={Dashboard} />
-          <Route path="/Images" component={Images}/>
+  
           <Route path="/Pdfs" component={Pdfs}/>
           <Route path="/Videos" component={Videos}/>
           <Route path="/Documents" component={Documents}/>
