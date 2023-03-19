@@ -1,0 +1,71 @@
+.backgroundimage{
+  background-image: url('background.jpg');
+}
+ .dashboard{
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    margin-right: 10px;
+    cursor:pointer;
+    border-color: #2b3f5c;
+    
+  }
+  .backgroundcolor{
+    background-color: #2b3f5c;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+
+  }
+  .profileaccount{
+    background-color: azure;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.profilefield{
+    background-color:#ffffff;
+  width: 100%;
+  border: none;
+  height: 40px;
+}
+.profilesubmit{
+    width: 160px;
+    height: 50px;
+    background-color: #04AA6D;
+    border: none;
+}
+.folderbutton{
+    border: none;
+    cursor: pointer;
+    margin-left: 30px;
+    background-color: white;
+}
+.folderbutton:hover{
+    background-color: lightblue;
+    border-radius: 10px;
+}
+.fileupload{
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: #C4D7E0;
+  border-radius: 10px;
+  border-style: solid;
+}
+.submitfileupload{
+  width: 120px;
+  height: 30px;
+  background-color:#04AA6D;
+  border: none;
+  cursor: grab;
+}
+.view{
+    margin-left: 20px;
+}
+.poweroff{
+  margin-top: 10px;
+  width: 70px;
+  height: 40px;
+  margin-left: 1150px;
+}
+  
